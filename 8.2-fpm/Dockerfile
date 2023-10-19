@@ -33,7 +33,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libreadline-dev \
     libonig-dev \
     potrace \
-    imagemagick \
     libmagickwand-dev
 
 # Clear cache
